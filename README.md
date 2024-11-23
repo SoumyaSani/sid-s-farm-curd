@@ -1,2 +1,2 @@
 # sid-s-farm-curd
-Sid's farm CURD
+https://my-json-server.typicode.com/SoumyaSani/sid-s-farm-curd/products
